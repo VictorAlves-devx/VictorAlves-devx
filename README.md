@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o João Victor
 
-<!--
-**VictorAlves-devx/VictorAlves-devx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) - 3º semestre  
+Interessado em Análise de Dados e Business Intelligence  
+Proativo, ágil e com facilidade para trabalho em equipe  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou estudante de TADS com foco em análise de dados e BI. Tenho facilidade com planilhas e gosto de transformar dados em informações úteis para tomada de decisão.
+
+Também possuo conhecimentos em Java, o que fortalece minha lógica de programação e capacidade de desenvolvimento.
+
+Estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades técnicas.
+
+---
+
+## Tecnologias e Ferramentas
+
+- Excel / Google Sheets  
+- SQL (básico/intermediário)  
+- Power BI  
+- Python (básico)  
+- Java  
+- Git e GitHub  
+
+---
+
+## Atualmente estudando
+
+- Análise de Dados  
+- Power BI  
+- SQL avançado  
+- Python para dados  
