@@ -1,11 +1,4 @@
- Olá, eu sou o João Victor
-
- Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) — 3º semestre
- Foco em desenvolvimento Backend (com interesse em evoluir para Fullstack)
- Aprendendo e construindo projetos com Java, Python e tecnologias web
- Proativo, ágil e com facilidade para trabalho em equipe
-
- Sobre mim
+Eu sou o João Victor
 
 Sou estudante de TADS com foco em desenvolvimento Backend, buscando construir aplicações eficientes, escaláveis e bem estruturadas.
 
