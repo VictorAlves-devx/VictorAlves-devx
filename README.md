@@ -1,35 +1,34 @@
-# Olá, eu sou o João Victor
+ Olá, eu sou o João Victor
 
-Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) - 3º semestre  
-Interessado em Análise de Dados e Business Intelligence  
-Proativo, ágil e com facilidade para trabalho em equipe  
+ Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) — 3º semestre
+ Foco em desenvolvimento Backend (com interesse em evoluir para Fullstack)
+ Aprendendo e construindo projetos com Java, Python e tecnologias web
+ Proativo, ágil e com facilidade para trabalho em equipe
 
----
+ Sobre mim
 
-## Sobre mim
+Sou estudante de TADS com foco em desenvolvimento Backend, buscando construir aplicações eficientes, escaláveis e bem estruturadas.
 
-Sou estudante de TADS com foco em análise de dados e BI. Tenho facilidade com planilhas e gosto de transformar dados em informações úteis para tomada de decisão.
+Tenho interesse especial em trabalhar com Java e Python, aprimorando minha lógica de programação, estrutura de dados e boas práticas de desenvolvimento.
 
-Também possuo conhecimentos em Java, o que fortalece minha lógica de programação e capacidade de desenvolvimento.
+Embora já tenha contato com análise de dados, estou direcionando meus estudos para desenvolvimento de sistemas, APIs e aplicações web, com objetivo de atuar como desenvolvedor Backend ou Fullstack no futuro.
 
-Estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades técnicas.
+Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades técnicas através de projetos práticos.
 
----
+ Tecnologias e Ferramentas
+Java
+Python
+SQL (básico/intermediário)
+Git e GitHub
+Excel / Google Sheets
+Power BI (conhecimento básico)
+ Atualmente estudando
+Desenvolvimento Backend com Java
+Python para desenvolvimento web
+APIs REST
+Estrutura de Dados e Algoritmos
+SQL avançado
+Git e boas práticas de versionamento
+ Objetivo
 
-## Tecnologias e Ferramentas
-
-- Excel / Google Sheets  
-- SQL (básico/intermediário)  
-- Power BI  
-- Python (básico)  
-- Java  
-- Git e GitHub  
-
----
-
-## Atualmente estudando
-
-- Análise de Dados  
-- Power BI  
-- SQL avançado  
-- Python para dados  
+Me tornar um desenvolvedor Backend, com capacidade de atuar também como Fullstack, participando do desenvolvimento completo de aplicações, desde a lógica do servidor até a interface com o usuário.
